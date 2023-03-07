@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
-import Contact from './contact'
+import './main.css';
 function Main(){
     return (
         <main>
